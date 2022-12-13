@@ -1,0 +1,40 @@
+.personas{
+    display: flex;
+    justify-content: space-evenly;
+}
+.laura{
+    border: 1px solid rgb(98, 119, 158);
+    border-radius: 25px;
+    width: 28%;
+    text-align: center;
+    padding: 13px;
+    box-sizing: border-box;
+}
+.laura img{
+    border-radius: 80px;
+    max-width: 50%;
+}
+.lautaro{
+    border: 1px solid rgb(98, 119, 158);
+    border-radius: 25px;
+    width: 28%;
+    text-align: center;
+    padding: 13px;
+    box-sizing: border-box;
+}
+.lautaro img{
+    border-radius: 80px;
+    max-width: 50%;
+}
+.teresa{
+    border: 1px solid rgb(98, 119, 158);
+    border-radius: 25px;
+    width: 28%;
+    text-align: center;
+    padding: 13px;
+    box-sizing: border-box;
+}
+.teresa img{
+    border-radius: 80px;
+    max-width: 50%;
+}

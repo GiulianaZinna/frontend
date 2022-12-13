@@ -1,0 +1,13 @@
+header{
+    background-color: rgb(6, 40, 70);
+    padding: 13px;
+}
+header h1{
+    color: white;
+    font-size: 40px;
+    font-style: oblique;
+    display: inline-block;
+    position:relative;
+    bottom: 40 px;
+    
+}

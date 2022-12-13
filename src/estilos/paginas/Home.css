@@ -1,0 +1,41 @@
+.holder{
+    max-width: 960px;
+    margin: 0 auto;
+}
+.imag01.jpg{
+    justify-items: center;
+}
+h2{
+    color:black;
+    font-weight: 300;
+}
+.bienvenidos{
+    width: 70%;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+.testimonios{
+    width: 30%;
+}
+.columnas{
+    display: flex;
+    justify-content: space-between;
+
+}
+.bienvenidos p{
+font-size: 20 px;
+}
+.testimonios{
+background-color: rgb(108, 118, 136);
+padding: 16px;
+}
+.testimonios .cita{
+    display: block;
+    font-size: 20px;
+    font-style: oblique;
+}
+.testimonios .autor{
+    display: block;
+    font-size: 20px;
+    font-style: oblique;   
+}

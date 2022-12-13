@@ -1,0 +1,22 @@
+/* 
+font-family: 'Heebo', sans-serif; 
+*/
+body{
+  font-family: 'Heebo', sans-serif;
+  font-size: 20px;
+  line-height-step: 5px;
+}
+
+holder{
+  width: 960;
+  margin: 0;
+}
+
+h1{
+  color: white;
+  font-size: 40px;
+  font-style: oblique;
+  display: inline-block;
+  position:relative;
+  bottom: 40 px;
+}
